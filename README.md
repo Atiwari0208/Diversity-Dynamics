@@ -66,14 +66,7 @@ This project answers 5 key business questions:
 
 ---
 
-## ✅ How to Use
-- Use slicers to filter by state
-- Hover over visuals to see precise values
-- Drill down into sub-categories and regions for targeted insights
-- Monitor trends to guide pricing and inventory strategies
-
----
 
 ### 🖼️ Dashboard Screenshot
-![Dashboard Screenshot](path/to/your/screenshot.png)
+![Dashboard Screenshot](take a quick look at my dashboard.png)
 
