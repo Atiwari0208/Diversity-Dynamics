@@ -1,4 +1,4 @@
-# 📈 Sample Superstore Profit Analysis Dashboard
+# 📈 Superstore Profit Analysis Dashboard
 
 ## 📝 Short Description
 A Power BI dashboard providing a comprehensive analysis of sales and profit performance across products, regions, and customer segments for a retail superstore.
@@ -6,12 +6,12 @@ A Power BI dashboard providing a comprehensive analysis of sales and profit perf
 ---
 
 ## 🛠️ Tech Stack
-- **Power BI**: Data modeling and visualization
-- **SQL**: Data querying and extraction
-- **Python**: Data preprocessing and cleaning
-- **DAX**: Measures and KPI calculations
-- **Data Modeling**: Relationships and semantic layer
-- **Kaggle**: Data retrieval
+- **Power BI** for visuals
+- **SQL** to pull and transform data
+- **Python** for cleaning and prep
+- **DAX** for calculating KPIs
+- **Kaggle** for raw data
+- **Data Modeling** to link it all together
 
 ---
 
