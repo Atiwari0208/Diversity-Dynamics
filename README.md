@@ -68,5 +68,5 @@ This project answers 5 key business questions:
 
 
 ### 🖼️ Dashboard Screenshot
-![Dashboard Screenshot]((https://github.com/Atiwari0208/Diversity-Dynamics/blob/main/take%20a%20quick%20look%20at%20my%20dashboard.png)
+![Dashboard Screenshot](https://github.com/Atiwari0208/Diversity-Dynamics/blob/main/take%20a%20quick%20look%20at%20my%20dashboard.png)
 
